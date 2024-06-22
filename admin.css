@@ -1,0 +1,7 @@
+.nav-link:hover {
+    background-color: grey;
+}
+
+.jumbotron {
+    background-image: url(img/1.jpg);
+}
